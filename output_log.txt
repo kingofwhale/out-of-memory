@@ -1,0 +1,1454 @@
+Log uploaded on Friday, April 07, 2017, 10:53:44 PM
+Loaded mods:
+Core: (no assemblies)
+HugsLib[2.4.3]: HugsLib(0.16.0.0)
+ExtendedStorage: ExtendedStorage(0.6.0.0)
+Set-Up Camp: Nandonalt_SetUpCamp(1.0.0.0)
+Blueprints: Blueprints(0.16.1.9)
+More Trade Ships: (no assemblies)
+Crash Landing: CrashLanding(0.0.0.0)
+Allow Tool: $HugsLibChecker(0.2.0.0), AllowTool(2.5.4.0)
+EdB Prepare Carefully: EdBPrepareCarefully(0.16.1.4)
+Glitter Tech: (no assemblies)
+Hardworking animals: (no assemblies)
+Path Avoid: PathAvoid(1.0.0.0)
+CaravanSpot: CaravanSpot(0.16.3.0)
+[FSF] Cookable Survival Meals A16: (no assemblies)
+FireFoam Mortar: (no assemblies)
+More Vanilla Turrets: (no assemblies)
+Defensive Positions: $HugsLibChecker(0.2.0.0), DefensivePositions(1.3.4.0)
+Expanded Prosthetics and Organ Engineering: (no assemblies)
+Real Fog of War: $HugsLibChecker(0.2.0.0), RimWorldFoWMod(0.1.19.0)
+DDA Security and More: (no assemblies)
+Organized Research Tab: OrganizedResearch(1.0.1.0)
+Crate: ThingBag(1.0.0.0)
+Bulk Medicine Production: (no assemblies)
+Medical Tab: MedicalInfo(1.0.0.0)
+Increased Stack: (no assemblies)
+WM Reuse pods: WM Landing pads(0.0.0.0)
+RT Fuse: RT_Fuse(1.0.0.0)
+
+Log file contents:
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: [Renderer information redacted]
+Begin MonoManager ReloadAssembly
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\NAudio.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
+- Completed reload, in  0.117 seconds
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.078085 ms
+RimWorld 0.16.1393 rev536
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mods config data is from build -1 while we are at build 1393. Resetting.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-192EB010 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-192EB010.dll
+Non platform assembly: data-19329220 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19329220.dll
+Attempting detour from Void SpawnSetup(Verse.Map)to Void _SpawnSetup(Verse.Map)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Extended Storage Detour Successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-19332630 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19332630.dll
+Non platform assembly: data-19336638 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19336638.dll
+Non platform assembly: data-193407A0 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-193407A0.dll
+Non platform assembly: data-167F0660 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-167F0660.dll
+Non platform assembly: data-167F5A78 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-167F5A78.dll
+Non platform assembly: data-1937C608 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-1937C608.dll
+Non platform assembly: data-19409BC8 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19409BC8.dll
+Detoured RimWorld.PawnUtility.GetAvoidGrid @ 0x188F6DE8 to PathAvoid.PathAvoidGrid.GetAvoidGrid @ 0x188F7008
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-1944C878 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-1944C878.dll
+Non platform assembly: data-194662A0 (this message is harmless)
+Non platform assembly: data-194662A0 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-194662A0.dll
+Non platform assembly: data-1947D4B0 (this message is harmless)
+Non platform assembly: data-1947D4B0 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-1947D4B0.dll
+Non platform assembly: data-194AD8C8 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-194AD8C8.dll
+Non platform assembly: data-1936C610 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-1936C610.dll
+Non platform assembly: data-19374818 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19374818.dll
+Non platform assembly: data-194B1BA0 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-194B1BA0.dll
+d3d: failed to create 2D texture id=2031 w=127 h=32 mips=8 d3dfmt=21 [invalid call]
+[HugsLib] Dangerous detour detected! TravelingTransportPods.SpawnDropPodsInMap to TravelingTransportPods.SpawnDropPodsInMap (assembly: WM Landing pads). Reason: Destination type contains non-static fields. This can have unpredictable and game-breaking side effects.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[HugsLib] (info) Attribute detours applied: 
+Window.WindowOnGUI >> HugsLib.GuiInject.WindowDetour._WindowOnGUI
+Pawn_DraftController.GetGizmos >> DefensivePositions.DraftControllerDetour._GetGizmos
+TravelingTransportPods.SpawnDropPodsInMap >> WM.ReusePods.TravelingTransportPods.SpawnDropPodsInMap
+ActiveDropPod.PodOpen >> WM.ReusePods.ActiveDropPod.PodOpen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[HugsLib] v2.4.3 initialized AllowTool, DefensivePositions, RealFogOfWar, Reuse_pods
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Injected new mapMeshFlag: 1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Boolean CanHitCellFromCellIgnoringRange(IntVec3, IntVec3) from source Verse.Verb to RimWorldRealFoW.Detours._Verb.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void Select(System.Object, Boolean, Boolean) from source RimWorld.Selector to RimWorldRealFoW.Detours._Selector.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void MouseoverReadoutOnGUI() from source Verse.MouseoverReadout to RimWorldRealFoW.Detours._MouseoverReadout.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void DrawPawnGUIOverlay() from source Verse.PawnUIOverlay to RimWorldRealFoW.Detours._PawnUIOverlay.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void DrawThingLabel(Verse.Thing, System.String, Color) from source Verse.GenMapUI to RimWorldRealFoW.Detours._GenMapUI.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void Regenerate() from source Verse.SectionLayer_Things to RimWorldRealFoW.Detours._SectionLayer_Things.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Boolean TryFindBestBillIngredients(RimWorld.Bill, Verse.Pawn, Verse.Thing, System.Collections.Generic.List`1[RimWorld.ThingAmount]) from source RimWorld.WorkGiver_DoBill to RimWorldRealFoW.Detours._WorkGiver_DoBill.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Verse.AI.Job HaulToStorageJob(Verse.Pawn, Verse.Thing) from source Verse.AI.HaulAIUtility to RimWorldRealFoW.Detours._HaulAIUtility.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method RimWorld.Designator_Install NewDesignatorFor(Verse.ThingDef) from source RimWorld.InstallationDesignatorDatabase to RimWorldRealFoW.Detours._InstallationDesignatorDatabase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Boolean ShouldShow() from source Verse.EnvironmentInspectDrawer to RimWorldRealFoW.Detours._EnvironmentInspectDrawer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void Message(System.String, GlobalTargetInfo, MessageSound) from source Verse.Messages to RimWorldRealFoW.Detours._Messages.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void ReceiveLetter(System.String, System.String, LetterType, GlobalTargetInfo, System.String) from source Verse.LetterStack to RimWorldRealFoW.Detours._LetterStack.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 7423.
+Total: 132.576675 ms (FindLiveObjects: 0.579269 ms CreateObjectMapping: 0.431526 ms MarkObjects: 131.493469 ms  DeleteObjects: 0.070945 ms)
+
+Tried to add the same relation twice: Spouse, pawn=Nathaniel, otherPawn=Davidson
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.786621 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 8754.
+Total: 124.183846 ms (FindLiveObjects: 0.473947 ms CreateObjectMapping: 0.601943 ms MarkObjects: 123.058952 ms  DeleteObjects: 0.047906 ms)
+
+Initializing new game with mods Core, 818773962, 731732064, 832990295, 708455313, 725465444, 730384702, 761421485, 735106432, 725576127, 896276462, 835555932, 826824646, 833166875, 884312231, 730528968, 761219125, 725956940, 836245605, 892434137, 882641145, 839827858, 831592558, 715565817, 798158924, and 887719112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 21746.
+Total: 605.296875 ms (FindLiveObjects: 1.231313 ms CreateObjectMapping: 1.888477 ms MarkObjects: 602.123657 ms  DeleteObjects: 0.053026 ms)
+
+Patched 208 designators on 239.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4556ms organizing Research Tab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133407
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133347
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133318
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133433
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133307
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133451
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133456
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133269
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133349
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133458
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133400
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133440
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133350
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133418
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133489
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133469
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133459
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133393
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133454
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MixedCargoContainerCrashIncident
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133297
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133288
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133287
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Deer133360
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133487
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133263
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver WolfTimber133486
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133284
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156213
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156217
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156215
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156209
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156218
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156211
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133415
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133317
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Thrumbo157591
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Thrumbo157590
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133331
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156210
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133314
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133293
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133411
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Tortoise133306
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133279
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133434
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133322
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133435
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133460
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133412
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133273
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133408
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156214
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133278
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133463
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133303
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133437
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Tortoise133308
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133384
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Boomrat133342
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Barra
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Gorar
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Cod
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Lemur
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Locust
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Galga
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Billa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Borne
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Camba
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Monkey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133382
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Goat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Cobra
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Kangaroo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Panther
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Orange
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Priscilla
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Wolle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133290
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Toad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Green
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Turkey
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133461
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel178319
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133369
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133357
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133492
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133335
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133305
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133484
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133443
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare154742
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133455
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133333
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133379
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133267
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Spelopede197059 has null dutyDefToSubNode. Recovering by calling ResolveSubnodes() (though that should have been called already).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Spelopede197108
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver WolfTimber133315
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133395
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare176987
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133302
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133332
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133471
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133291
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133292
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133467
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133328
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133339
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Tortoise133373
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Tortoise133389
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Ibex133359
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver FoxRed133474
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133406
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver156212
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+partneredCols % 2 != 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133485
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Boomrat133299
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver FoxRed167821
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non interceptWallsInt explosive.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Ray
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Chicken
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Le
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Nat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Selma
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Cave
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133321
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133353
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel176030
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133438
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare180633
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Boomrat133348
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133386
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver210936
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver210937
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133394
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver210934
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133341
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Deer133375
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Tortoise133488
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat133356
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel196487
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare179561
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon176819
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.329067 ms
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 37466.
+Total: 903.212585 ms (FindLiveObjects: 3.688089 ms CreateObjectMapping: 6.165710 ms MarkObjects: 890.425842 ms  DeleteObjects: 2.932186 ms)
+
+[HugsLib] Restarting RimWorld
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d00 -> priority: 1 
+  Thread -> id: 26e0 -> priority: 1 
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7653]
+    Renderer: NVIDIA GeForce GT 740
+    Vendor:   NVIDIA
+    VRAM:     2017 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\NAudio.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
+Loading [Rimworld_dir]\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
+- Completed reload, in  0.157 seconds
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: [Rimworld_dir]\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.977151 ms
+RimWorld 0.16.1393 rev536
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-19A90048 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19A90048.dll
+Non platform assembly: data-1563A018 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-1563A018.dll
+Attempting detour from Void SpawnSetup(Verse.Map)to Void _SpawnSetup(Verse.Map)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Extended Storage Detour Successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-154C7058 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-154C7058.dll
+Non platform assembly: data-1552B0D8 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-1552B0D8.dll
+Non platform assembly: data-19AAFBB0 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19AAFBB0.dll
+Non platform assembly: data-155358E8 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-155358E8.dll
+Non platform assembly: data-19AD8720 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19AD8720.dll
+Non platform assembly: data-19AEA2A0 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19AEA2A0.dll
+Non platform assembly: data-19B917F8 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19B917F8.dll
+Detoured RimWorld.PawnUtility.GetAvoidGrid @ 0x199C8DE8 to PathAvoid.PathAvoidGrid.GetAvoidGrid @ 0x199C9008
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-19BACA58 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19BACA58.dll
+Non platform assembly: data-19BAE460 (this message is harmless)
+Non platform assembly: data-19BAE460 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19BAE460.dll
+Non platform assembly: data-19BCF008 (this message is harmless)
+Non platform assembly: data-19BCF008 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19BCF008.dll
+Non platform assembly: data-19BDF418 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19BDF418.dll
+Non platform assembly: data-19BE2828 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19BE2828.dll
+Non platform assembly: data-19BF9048 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19BF9048.dll
+Non platform assembly: data-19C18008 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-19C18008.dll
+Non platform assembly: data-155DB1E8 (this message is harmless)
+Fallback handler could not load library [Rimworld_dir]/RimWorldWin_Data/Mono/data-155DB1E8.dll
+Config error in WM_LandingPodsControler: WM_LandingPodsControler has null thingClass.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in WM_LandingPodsControler: WM_LandingPodsControler has components but it's thingClass is not a ThingWithComps
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in PodLauncher: PodLauncher has null thingClass.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in PodLauncher: PodLauncher has components but it's thingClass is not a ThingWithComps
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in WM_LandingPodsControler: WM_LandingPodsControler has null thingClass.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in WM_LandingPodsControler: WM_LandingPodsControler has components but it's thingClass is not a ThingWithComps
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in PodLauncher: PodLauncher has null thingClass.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Config error in PodLauncher: PodLauncher has components but it's thingClass is not a ThingWithComps
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+d3d: failed to create 2D texture id=1841 w=127 h=32 mips=8 d3dfmt=21 [invalid call]
+[HugsLib] Dangerous detour detected! TravelingTransportPods.SpawnDropPodsInMap to TravelingTransportPods.SpawnDropPodsInMap (assembly: WM Landing pads). Reason: Destination type contains non-static fields. This can have unpredictable and game-breaking side effects.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[HugsLib] (info) Attribute detours applied: 
+Window.WindowOnGUI >> HugsLib.GuiInject.WindowDetour._WindowOnGUI
+Pawn_DraftController.GetGizmos >> DefensivePositions.DraftControllerDetour._GetGizmos
+TravelingTransportPods.SpawnDropPodsInMap >> WM.ReusePods.TravelingTransportPods.SpawnDropPodsInMap
+ActiveDropPod.PodOpen >> WM.ReusePods.ActiveDropPod.PodOpen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[HugsLib] v2.4.3 initialized AllowTool, DefensivePositions, RealFogOfWar, Reuse_pods
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Injected new mapMeshFlag: 1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Boolean CanHitCellFromCellIgnoringRange(IntVec3, IntVec3) from source Verse.Verb to RimWorldRealFoW.Detours._Verb.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void Select(System.Object, Boolean, Boolean) from source RimWorld.Selector to RimWorldRealFoW.Detours._Selector.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void MouseoverReadoutOnGUI() from source Verse.MouseoverReadout to RimWorldRealFoW.Detours._MouseoverReadout.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void DrawPawnGUIOverlay() from source Verse.PawnUIOverlay to RimWorldRealFoW.Detours._PawnUIOverlay.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void DrawThingLabel(Verse.Thing, System.String, Color) from source Verse.GenMapUI to RimWorldRealFoW.Detours._GenMapUI.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void Regenerate() from source Verse.SectionLayer_Things to RimWorldRealFoW.Detours._SectionLayer_Things.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Boolean TryFindBestBillIngredients(RimWorld.Bill, Verse.Pawn, Verse.Thing, System.Collections.Generic.List`1[RimWorld.ThingAmount]) from source RimWorld.WorkGiver_DoBill to RimWorldRealFoW.Detours._WorkGiver_DoBill.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Verse.AI.Job HaulToStorageJob(Verse.Pawn, Verse.Thing) from source Verse.AI.HaulAIUtility to RimWorldRealFoW.Detours._HaulAIUtility.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method RimWorld.Designator_Install NewDesignatorFor(Verse.ThingDef) from source RimWorld.InstallationDesignatorDatabase to RimWorldRealFoW.Detours._InstallationDesignatorDatabase.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Boolean ShouldShow() from source Verse.EnvironmentInspectDrawer to RimWorldRealFoW.Detours._EnvironmentInspectDrawer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void Message(System.String, GlobalTargetInfo, MessageSound) from source Verse.Messages to RimWorldRealFoW.Detours._Messages.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detoured method Void ReceiveLetter(System.String, System.String, LetterType, GlobalTargetInfo, System.String) from source Verse.LetterStack to RimWorldRealFoW.Detours._LetterStack.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.852082 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 7113.
+Total: 28.245609 ms (FindLiveObjects: 0.319622 ms CreateObjectMapping: 0.383619 ms MarkObjects: 27.499580 ms  DeleteObjects: 0.042055 ms)
+
+Loading game from file bob with mods Core, 818773962, 731732064, 832990295, 708455313, 725465444, 730384702, 761421485, 735106432, 725576127, 896276462, 835555932, 826824646, 833166875, 884312231, 730528968, 761219125, 725956940, 836245605, 892434137, 882641145, 839827858, 831592558, 715565817, 798158924, 887719112, and 728314182
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[AllowTool] Injected 4 designators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20805.
+Total: 758.806580 ms (FindLiveObjects: 1.189258 ms CreateObjectMapping: 2.143370 ms MarkObjects: 755.417664 ms  DeleteObjects: 0.054489 ms)
+
+Patched 210 designators on 241.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3036ms organizing Research Tab.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+partneredCols % 2 != 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RT_Fuse: replaced IncidentWorker for ShortCircuit.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.994164 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 23418.
+Total: 416.664551 ms (FindLiveObjects: 1.256181 ms CreateObjectMapping: 1.455853 ms MarkObjects: 413.862183 ms  DeleteObjects: 0.089596 ms)
+
+Loading game from file bob with mods Core, 818773962, 731732064, 832990295, 708455313, 725465444, 730384702, 761421485, 735106432, 725576127, 896276462, 835555932, 826824646, 833166875, 884312231, 730528968, 761219125, 725956940, 836245605, 892434137, 882641145, 839827858, 831592558, 715565817, 798158924, 887719112, and 728314182
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 36427.
+Total: 1187.110352 ms (FindLiveObjects: 2.324392 ms CreateObjectMapping: 4.611849 ms MarkObjects: 1180.085205 ms  DeleteObjects: 0.087768 ms)
+
+Patched 0 designators on 241.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133330
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133268
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Alphabeaver210933
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Rat181904
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133320
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133473
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel231114
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon179637
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Boomrat133413
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133338
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Tranca
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.076829 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 40637.
+Total: 865.296753 ms (FindLiveObjects: 2.315981 ms CreateObjectMapping: 3.903852 ms MarkObjects: 858.963989 ms  DeleteObjects: 0.111904 ms)
+
+Loading game from file bob with mods Core, 818773962, 731732064, 832990295, 708455313, 725465444, 730384702, 761421485, 735106432, 725576127, 896276462, 835555932, 826824646, 833166875, 884312231, 730528968, 761219125, 725956940, 836245605, 892434137, 882641145, 839827858, 831592558, 715565817, 798158924, 887719112, and 728314182
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 53637.
+Total: 1588.534912 ms (FindLiveObjects: 3.628846 ms CreateObjectMapping: 6.254941 ms MarkObjects: 1578.254761 ms  DeleteObjects: 0.394590 ms)
+
+Patched 0 designators on 241.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel199130
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133334
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133320
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Raccoon133355
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OutOfMemoryException: Out of memory
+  at (wrapper managed-to-native) object:__icall_wrapper_mono_array_new_specific (intptr,int)
+  at System.Array.Resize[Vector2] (UnityEngine.Vector2[]& array, Int32 length, Int32 newSize) [0x00000] in <filename unknown>:0 
+  at System.Array.Resize[Vector2] (UnityEngine.Vector2[]& array, Int32 newSize) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].set_Capacity (Int32 value) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].GrowIfNeeded (Int32 newCount) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].Add (Vector2 item) [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer_Terrain.CalculateInterpolatedVerticesParams () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer_Terrain.Regenerate () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer.Render () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldRenderer.DrawWorldLayers () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.World.WorldUpdate () [0x00000] in <filename unknown>:0 
+  at Verse.Game.Update () [0x00000] in <filename unknown>:0 
+  at Verse.Root_Play.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Tried to remove non-registered tooltip giver Raccoon179637
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133398
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel133338
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Squirrel238007
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Rat_Corpse166099 has null innerPawn. Destroying.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to destroy already-destroyed thing Rat_Corpse166099
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133294
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver WildBoar205320
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Squirrel_Corpse180503 has null innerPawn. Destroying.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to destroy already-destroyed thing Squirrel_Corpse180503
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to remove non-registered tooltip giver Hare133436
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+An exception was thrown during saving to "C:\Users\Stephen\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Saves\Autosave-4.rws.new": System.OutOfMemoryException: Out of memory
+  at (wrapper managed-to-native) object:__icall_wrapper_mono_array_new_specific (intptr,int)
+  at System.Array.Resize[Vector2] (UnityEngine.Vector2[]& array, Int32 length, Int32 newSize) [0x00000] in <filename unknown>:0 
+  at System.Array.Resize[Vector2] (UnityEngine.Vector2[]& array, Int32 newSize) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].set_Capacity (Int32 value) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].GrowIfNeeded (Int32 newCount) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].Add (Vector2 item) [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer_Terrain.CalculateInterpolatedVerticesParams () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer_Terrain.Regenerate () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer.Render () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldRenderer.DrawWorldLayers () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.World.WorldUpdate () [0x00000] in <filename unknown>:0 
+  at Verse.Game.Update () [0x00000] in <filename unknown>:0 
+  at Verse.Root_Play.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1994 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1985 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1981 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1977 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1989 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1973 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1969 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig92971 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig92970 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Ostrich133483 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human185498 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig192650 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human219874 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig231596 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig318409 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1969 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1973 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1985 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1969 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1973 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig318409 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1989 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1985 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1977 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1994 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig231596 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human185498 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human219874 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1981 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1989 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1977 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human185498 is referenced (xml node name: recipient) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1994 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human219874 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1981 is referenced (xml node name: initiator) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Map_0 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human92792 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig92971 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Area_0_Home is referenced (xml node name: areaAllowed) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Pig92970 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1973 is referenced (xml node name: master) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1981 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human185498 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1985 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1994 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1989 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human219874 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1969 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1973 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Human1977 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Alphabeaver210932 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Alphabeaver210933 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Alphabeaver210931 is referenced (xml node name: claimant) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Mechanoid_Scyther92713 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Mechanoid_Centipede92715 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Mechanoid_Scyther92912 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Mechanoid_Centipede92914 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Mechanoid_Scyther92916 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Object with load ID Thing_Mechanoid_Scyther92918 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Exception while saving map: System.OutOfMemoryException: Out of memory
+  at (wrapper managed-to-native) object:__icall_wrapper_mono_array_new_specific (intptr,int)
+  at System.Array.Resize[Vector2] (UnityEngine.Vector2[]& array, Int32 length, Int32 newSize) [0x00000] in <filename unknown>:0 
+  at System.Array.Resize[Vector2] (UnityEngine.Vector2[]& array, Int32 newSize) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].set_Capacity (Int32 value) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].GrowIfNeeded (Int32 newCount) [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[UnityEngine.Vector2].Add (Vector2 item) [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer_Terrain.CalculateInterpolatedVerticesParams () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer_Terrain.Regenerate () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldLayer.Render () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.WorldRenderer.DrawWorldLayers () [0x00000] in <filename unknown>:0 
+  at RimWorld.Planet.World.WorldUpdate () [0x00000] in <filename unknown>:0 
+  at Verse.Game.Update () [0x00000] in <filename unknown>:0 
+  at Verse.Root_Play.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
